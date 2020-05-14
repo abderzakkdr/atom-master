@@ -1,0 +1,73 @@
+@font-face {
+	font-family: "police1";
+	src: url("../polices/police4.ttf");
+}
+
+
+.title1OM{
+	font-family: police1 ;
+	margin-top: 22vmin;
+	font-size: 14vmin;
+	color: white;
+	font-weight: normal;
+    margin-left:0vmin;
+	text-shadow: 1vmin 1vmin rgb(41, 41, 41);
+	width: 200vmin;
+	text-align:center ;
+}
+
+.menu1OM {
+	margin-top: -12vmin;
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	font-size: 8vmin;
+	font-family: police1;
+	text-shadow:  -0.17vmin 0 black, 0 0.17vmin black,0.17vmin 0 black, 0 -0.17vmin black, -0.4vmin -0.4vmin black;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: normal;
+	width: 25vmin;
+	text-align:center ;
+}
+
+.menu3OM {
+	margin-top: 7vmin;
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	font-size: 8vmin;
+	font-family: police1;
+	text-shadow: -0.17vmin 0 black, 0 0.17vmin black,0.17vmin 0 black, 0 -0.17vmin black, -0.4vmin -0.4vmin black;
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: normal;
+	width: 39vmin;
+	text-align:center ;
+}
+
+.menu1OM:hover {
+	color: rgba(255, 0, 0, 0.7);
+}
+
+.menu2OM:hover {
+	color: rgba(255, 0, 0, 0.7);
+}
+
+.menu3OM:hover {
+	color: rgba(255, 0, 0, 0.7);
+}
+
+.menu1OM:active {
+	color: #000000;
+}
+
+.menu2OM:active {
+	color: #000000;
+}
+
+.menu3OM:active {
+	color: #000000;
+}
+
+body{
+	margin: 0;
+}

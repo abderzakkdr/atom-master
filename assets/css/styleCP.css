@@ -1,0 +1,67 @@
+@font-face {
+    font-family: "police1";
+    src: url("../polices/police4.ttf");
+}
+
+
+.title{
+    font-family: police1 ;
+	color: rgba(133, 0, 0, 0.924);
+	font-weight: normal;
+	text-shadow:  -0.17vmin 0 white, 0 0.17vmin white,0.17vmin 0 white, 0 -0.17vmin white, -0.4vmin -0.4vmin black;
+	text-align:center ;
+    font-size: 7vmin;
+    margin-left:1vmin;
+    margin-top: 25vmin;
+    width: 100vmin;
+}
+
+.vs{
+    width:20vmin;
+    border:none;
+    box-shadow: none;
+    outline-color:none ;
+    margin-top: 54vmin;
+    margin-left: 0vmin;
+    height: 18vmin;
+}
+
+.vs:hover{
+    box-shadow:none;
+    outline-color:none;
+    outline-offset: none;
+}
+
+.DrSkull{
+    width: 25vmin;
+    border:0.3vmin solid black;
+    border-radius: 1.5vmin;
+    margin-top: 40vmin;
+    margin-left: -29vmin;
+    margin-top: 52vmin;
+    margin-left: -29vmin;
+    height: 25vmin;
+}
+
+.Professeur{
+    width: 25vmin;
+    border:0.3vmin solid black;
+    border-radius: 1.5vmin;
+    margin-top: 40vmin;
+    margin-left: -29vmin;
+    margin-top: 52vmin;
+    margin-left: 29vmin;
+    height: 25vmin;
+}
+
+.DrSkull:hover{
+    box-shadow: inset 0 0 3vmin rgba(255,255,255,.5),0 0 2vmin red;
+    outline-color: rgba(255,255,255,0);
+    outline-offset: 25px;
+}
+
+.Professeur{
+    box-shadow: inset 0 0 3vmin rgba(255,255,255,.5),0 0 2vmin red;
+    outline-color: rgba(255,255,255,0);
+    outline-offset: 25px;
+}

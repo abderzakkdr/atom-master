@@ -1,0 +1,92 @@
+@font-face {
+	font-family: "police1";
+	src: url("../polices/police4.ttf");
+}
+
+.menu1 {
+	margin-top: -20vmin;
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	font-size: 7vmin;
+	font-family: police1;
+	text-shadow:  -0.17vmin 0 black, 0 0.17vmin black,0.17vmin 0 black, 0 -0.17vmin black, -0.4vmin -0.4vmin black;
+	margin-left: 0vmin;
+	font-weight: normal;
+	width: 36vmin;
+	text-align:center ;
+}
+
+.menu1:hover {
+	color: rgba(255, 0, 0, 0.7);
+}
+
+.menu1:active {
+	color: #000000;
+}
+
+.menu2 {
+	margin-top: -10vmin;
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	font-size: 7vmin;
+	font-family: police1;
+	text-shadow:  -0.17vmin 0 black, 0 0.17vmin black,0.17vmin 0 black, 0 -0.17vmin black, -0.4vmin -0.4vmin black;
+	margin-left: 0vmin;
+	font-weight: normal;
+	width: 40vmin;
+	text-align:center ;
+}
+
+.menu2:hover {
+	color: rgba(255, 0, 0, 0.7);
+}
+
+.menu2:active {
+	color: #000000;
+}
+
+.menu3 {
+	margin-top: 0vmin;
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	font-size: 7vmin;
+	font-family: police1;
+	text-shadow:  -0.17vmin 0 black, 0 0.17vmin black,0.17vmin 0 black, 0 -0.17vmin black, -0.4vmin -0.4vmin black;
+	margin-left: 0vmin;
+	font-weight: normal;
+	width: 40vmin;
+	text-align:center ;
+}
+
+.menu3:hover {
+	color: rgba(255, 0, 0, 0.7);
+}
+
+.menu3:active {
+	color: #000000;
+}
+
+.menu4 {
+	margin-top: 10vmin;
+	color: rgb(255, 255, 255);
+	cursor: pointer;
+	font-size: 7vmin;
+	font-family: police1;
+	text-shadow: -0.17vmin 0 black, 0 0.17vmin black,0.17vmin 0 black, 0 -0.17vmin black, -0.4vmin -0.4vmin black;
+	margin-left: 0vmin;
+	font-weight: normal;
+	width: 43vmin;
+	text-align:center ;
+}
+
+.menu4:hover {
+	color: rgba(255, 0, 0, 0.7);
+}
+
+.menu4:active {
+	color: #000000;
+}
+
+body{
+	margin: 0;
+}
